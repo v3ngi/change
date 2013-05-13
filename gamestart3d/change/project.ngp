@@ -1,0 +1,9 @@
+<Version=1.0>
+<Environment=
+	<Name="change">
+	<Authors="steve zuccaro">
+	<Description="New project">
+	<Company="Copyright 2013">
+	<Include>
+	<SearchPaths>
+>
